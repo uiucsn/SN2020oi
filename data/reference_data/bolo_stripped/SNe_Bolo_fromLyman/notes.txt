@@ -1,0 +1,10 @@
+From Joe Lyman:
+As I mention in the paper, the uncertainties are estimated by taking the uncertainty in the optical colour and translating that as an error on the bolometric correction used. Distance moduli and E(B-V) used to create these are given in the bolometric LC paper. For a few earlier ones, e.g. 93J, there are no uncertainties in these files as the original data gave no uncertainties.
+
+Columns are:
+1) MJD
+2) epoch compared to peak (I determined the peak quite roughly - you may want to repeat this if you need accurate epochs)
+3) Mbol (absolute bolometric magnitude)
+4, 5) -/+ error on Mbol
+6) log10(Lbol)  Lbol= bolometric optical light-curve in erg/s
+7, 8) -/+ error on log10(Lbol)

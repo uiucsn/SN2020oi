@@ -1,0 +1,2 @@
+Filter MJD[days] Mag MagErr 3SigMagLim 0.98SatLim[mag] Rate[c/s] RateErr[c/s] Ap[arcsec] Frametime[s] Exp[s] Telapse[s]
+U        56104.7629  16.817   0.057  21.550  12.081   4.064   0.213  3.0  0.0110    6760.32   40977.78
