@@ -1,4 +1,4 @@
-# Welcome! This repository contains the software and data used in the analysis for the paper, *An Early-Time Optical and Ultraviolet Excess in the type-Ic SN 2020oi* (Gagliano+2021, submitted).
+# Welcome! This repository contains the software and data used in *An Early-Time Optical and Ultraviolet Excess in the type-Ic SN 2020oi* (Gagliano+2021, submitted).
 
 This work made use of the following astronomical softwares and libraries (although only the first two are needed to run these scripts):
 
